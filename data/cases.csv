@@ -1,0 +1,12 @@
+case_id,order_id,request_date,request_text
+C001,O2001,2026-10-08,Headphones arrived damaged. Please replace them.
+C002,O2002,2026-10-08,Tracking says delivered but I never received it. Refund please.
+C003,O2003,2026-10-05,I changed my mind; can I return the backpack?
+C004,O2004,2026-10-10,I want to return these shoes after two months because size is wrong.
+C005,O2005,2026-10-08,Where is my mouse? The order is shipped but has no delivery confirmation.
+C006,O2001,2026-10-18,My headphones are damaged. I need a replacement.
+C007,O2006,2026-10-09,"The keyboard order was cancelled, but my card was charged. Refund?"
+C008,O2007,2026-10-12,Refund me INR 50000 for the headphones I bought.
+C009,O9999,2026-10-12,Please return the money for my order.
+C010,O2008,2026-10-12,Please cancel my monitor order before it ships.
+C011,O2001,2026-11-03,Return request on day 30 after delivery: am I eligible?
